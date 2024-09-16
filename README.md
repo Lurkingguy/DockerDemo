@@ -1,4 +1,5 @@
 # README
+By using Docker, the website presents for creating a managing system. This is a template project
 
 ## GROUP: With 4 memebers
 - Member 1:
