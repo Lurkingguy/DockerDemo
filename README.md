@@ -1,11 +1,10 @@
 # README
 
-## GROUP <add-group-name>
-
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+## GROUP: With 4 memebers
+- Member 1:
+- Member 2:
+- Member 3:
+- Member 4:
 
 ## Starting server
 
